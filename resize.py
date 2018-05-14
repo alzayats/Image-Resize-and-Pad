@@ -12,7 +12,7 @@ def resize_image():
     print ("Resizing Images with maxemum dimensions of:")
     # Directory Path for trainging data
     path = get_path
-    # path = "/CS/JCU/Paper/FAC_2018/Identify_the_Digits/data/train_dist2_copy_padded/"
+   
 
     # make dir for output
     output_dir = os.path.join(path, 'output')
@@ -66,7 +66,7 @@ def pad_image():
 
     # Directory Path for trainging data
     path = get_path
-    # path = "/CS/JCU/Paper/FAC_2018/Identify_the_Digits/data/train_dist2_copy_padded/"
+  
 
     # make dir for output
     output_dir = os.path.join(path, 'output')
