@@ -1,5 +1,5 @@
 # this file do  resize  or padding multiple images at the same time   
-
+# this code is written by Alzayat Saleh
 
 
 from PIL import Image
